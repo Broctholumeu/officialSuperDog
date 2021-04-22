@@ -53,7 +53,7 @@ hr {
 }
 
 body {
-    background: linear-gradient(-63deg, #232526, #283840);
+    background: linear-gradient(-63deg, #6cb4e4, #3e8a8a);
     background-size: 400% 400%;
     animation: gradient 150s ease infinite;
 }
